@@ -110,7 +110,6 @@ Probability: [0.9954, 0.0045]
 
 This project was independently developed as part of my learning journey. It enhanced my technical understanding of NLP, classification algorithms, data visualization, and real-world data interpretation — especially in the context of climate science communication.
 
-Feel free to fork, contribute, or use the pipeline as a base for further NLP or climate-related modeling!
 
 ---
 
