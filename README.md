@@ -6,7 +6,7 @@ This project presents a complete machine learning pipeline to analyze **climate-
 
 ## 🎯 Objective
 
-The objective of this project is to develop a machine learning-based model to analyze and predict the impact of various factors contributing to climate change, specifically public sentiment expressed through text. Using historical and real-time environmental discussion data, the model:
+The objective of this project is to develop a machine learning-based model to analyse and predict the impact of various factors contributing to climate change, specifically public sentiment expressed through text. Using historical and real-time environmental discussion data, the model:
 
 - Classifies text into Positive, Neutral, or Negative sentiments
 - Uses likes and comment engagement as indicators of sentiment
